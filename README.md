@@ -1,4 +1,4 @@
-This is airdog code use IAR IDE.
+This is airdog code use IAR for stm8 IDE.
 You must use IAR6.3 or higher version.
 This is free software,you can use it to create an airdog.
 Airdog is an air quilty monitor.
