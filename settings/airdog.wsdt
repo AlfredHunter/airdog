@@ -3,7 +3,7 @@
 <Workspace>
   <ConfigDictionary>
     
-  <CurrentConfigs><Project>airdog/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <CurrentConfigs/></ConfigDictionary>
   <Desktop>
     <Static>
       <Workspace>
@@ -17,7 +17,7 @@
     <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build><TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Select-Ambiguous-Definitions><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Select-Ambiguous-Definitions></Static>
     <Windows>
       
-    <Wnd0>
+    <Wnd2>
         <Tabs>
           <Tab>
             <Identity>TabID-26362-3027</Identity>
@@ -25,11 +25,11 @@
             <Factory>Workspace</Factory>
             <Session>
               
-            <NodeDict><ExpandedNode>airdog</ExpandedNode><ExpandedNode>airdog/USER</ExpandedNode></NodeDict></Session>
+            <NodeDict/></Session>
           </Tab>
         </Tabs>
         
-      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-20926-5176</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-14947-15727</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab><Identity>TabID-15674-27555</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-20926-5176</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-14947-15727</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
     <Editor>
       
       
@@ -42,7 +42,7 @@
       
       
       
-    <Top><Row0><Sizes><Toolbar-00e3ff30><key>iaridepm.enu1</key></Toolbar-00e3ff30></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>506</Bottom><Right>267</Right><x>-2</x><y>-2</y><xscreen>198</xscreen><yscreen>217</yscreen><sizeHorzCX>145910</sizeHorzCX><sizeHorzCY>314038</sizeHorzCY><sizeVertCX>198231</sizeVertCX><sizeVertCY>735166</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>140</Bottom><Right>1359</Right><x>-2</x><y>-2</y><xscreen>1361</xscreen><yscreen>142</yscreen><sizeHorzCX>1002948</sizeHorzCX><sizeHorzCY>205499</sizeHorzCY><sizeVertCX>145910</sizeVertCX><sizeVertCY>314038</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+    <Top><Row0><Sizes><Toolbar-02E16180><key>iaridepm.enu1</key></Toolbar-02E16180></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>505</Bottom><Right>267</Right><x>-2</x><y>-2</y><xscreen>198</xscreen><yscreen>217</yscreen><sizeHorzCX>145910</sizeHorzCX><sizeHorzCY>314493</sizeHorzCY><sizeVertCX>198231</sizeVertCX><sizeVertCY>734783</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>140</Bottom><Right>1359</Right><x>-2</x><y>-2</y><xscreen>1361</xscreen><yscreen>142</yscreen><sizeHorzCX>1002948</sizeHorzCX><sizeHorzCY>205797</sizeHorzCY><sizeVertCX>145910</sizeVertCX><sizeVertCY>314493</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
   </Desktop>
 </Workspace>
 
